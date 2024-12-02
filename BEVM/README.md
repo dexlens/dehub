@@ -10,6 +10,7 @@ Attributes:
 - Mainnet
 - Sidechain
 - WBTC Fee Token
+- BTC Layer 2
 
 Links:
 - [Website](https://www.bevm.io)
